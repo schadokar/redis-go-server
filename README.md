@@ -154,4 +154,5 @@ docker-compose -f deployments/docker-compose.yaml up -d
 
 # References
 
-[Callicoder](https://www.callicoder.com/docker-golang-image-container-example/)
+[Callicoder](https://www.callicoder.com/docker-golang-image-container-example/)  
+[Builder pattern vs. Multi-stage builds in Docker](https://blog.alexellis.io/mutli-stage-docker-builds)
